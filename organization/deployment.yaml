@@ -2,7 +2,7 @@
 #
 # For the Hologram AI Agent Example dependencies (Hologram Demo SA).
 chartSource: oci://registry-1.docker.io/veranalabs/vs-agent-chart
-chartVersion: v1.13.0
+chartVersion: v1.10.1
 
 global:
   domain: demos.hologram.zone
