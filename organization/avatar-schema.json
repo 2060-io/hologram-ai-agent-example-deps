@@ -1,8 +1,8 @@
 {
   "$id": "https://verana-labs.github.io/verifiable-trust-spec/schemas/v4/example.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Hologram Demo Avatar Credential",
-  "description": "An avatar credential schema used by the Hologram AI Agent Example dependencies to authenticate end-users on demo agents.",
+  "title": "Hologram Sandbox Avatar Credential",
+  "description": "An avatar credential schema used by the Hologram AI Agent Sandbox dependencies to authenticate end-users on demo agents.",
   "type": "object",
   "properties": {
     "credentialSubject": {
